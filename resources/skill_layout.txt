@@ -1,0 +1,23 @@
+Languages
+[][]
+[][]
+*Python
+*C
+*JavaScript
+
+Web Programming
+[][]
+[][]
+*HTML
+*CSS
+*JS
+*Vue.js
+
+Frameworks
+[][]
+[][]
+*Selenium
+*Tkinter
+*PyAutoGUI
+*Pygame
+
