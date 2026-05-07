@@ -11,7 +11,7 @@ pipeline {
                   --exclude ".git/*"
 
                 aws cloudfront create-invalidation \
-                  --distribution-id E3DDUW8FCPZ691 \
+                  --distribution-id E15DXR8RIXS3MO \
                   --paths "/*"
                 '''
             }
